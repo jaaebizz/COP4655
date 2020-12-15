@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811978921730",
+    "project_id": "finalprojectyelp-1607876463531",
+    "storage_bucket": "finalprojectyelp-1607876463531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811978921730:android:ead456ce8e1fff912d141b",
+        "android_client_info": {
+          "package_name": "com.example.finalprojectyelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811978921730-eeol7knpfh6dld894mnv1l5132m6lsf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalprojectyelp",
+            "certificate_hash": "ba11207f979fbe933933b6b8a9647f9dc7e5e156"
+          }
+        },
+        {
+          "client_id": "811978921730-tvmvf19ervdohli7k21dj0imevh9gvgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDp4DGC0FwCamUSeYMFkqcG_NF-UwN8Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811978921730-tvmvf19ervdohli7k21dj0imevh9gvgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
